@@ -46,9 +46,9 @@
     text-align: center;
 }
 
+/*-------------------------------------viewerCanvas ID */
 
-/*-------------------------------------Books ID */
-#result {
+#viewerCanvas {
     max-width: 600px;
     max-height: 100px;
 }
