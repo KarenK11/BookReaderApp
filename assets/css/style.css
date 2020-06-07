@@ -1,0 +1,81 @@
+/*------------------------------------Margins, padding and spacing */
+
+.head-style {
+    background: url("../images/books.png");
+    max-height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 140px;
+    padding-bottom: 200px;
+}
+
+.search-bar {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 600px;
+    padding-right: 50px;
+    margin-left: 80px;
+}
+
+.nothing-to-see {
+    text-align: center;
+    padding-left: 80px;
+    padding-bottom: 30px;
+    font-size: 30px;
+}
+
+.footer-align {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#books {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#search-btn {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+
+/*-------------------------------------Books ID */
+#result {
+    max-width: 600px;
+    max-height: 100px;
+}
+
+/*-------------------------------------Styling */
+
+.page-bottom {
+    padding-top: 150px;
+}
+
+.book-find {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 5px black;
+}
+
+/*-------------------------------------Colours */
+
+.head-side {
+    background-color: #F4F6FA;
+}
+
+/*-------------------------------------Footer */
+
+.footer-align {
+    text-align: center;
+    background-color: #8094DD;
+}
+
